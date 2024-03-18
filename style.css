@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@300&family=Roboto:ital,wght@0,400;1,300&display=swap");
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto";
+  width: 100%;
+  height: 100vh;
+}
+.bg-custam {
+  background-color: #5fcac7;
+  border-radius: 45px;
+}
+.width img {
+  width: 120px;
+}
+.bg-custam1 {
+  background-color: #5fcac7;
+  border-radius: 55px;
+  color: white;
+  padding: 12px 35px 12px 35px;
+  font-size: large;
+}
+.align-left {
+  text-align: left;
+}
+.display-1 {
+  font-size: 4.5rem;
+  line-height: 85px;
+  font-weight: 800;
+  text-align: left;
+  color: #fff;
+}
+.display-5 {
+  font-size: 22px;
+  font-weight: 300;
+  margin: 20px;
+  text-align: left;
+  color: #fff;
+}
+.cid-rNKHrIArCA .image > img {
+  border-radius: 10px;
+  object-fit: cover;
+  width: 100%;
+  height: 160px;
+}
+.cid-rNKHrIArCA {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url(images/bakery4-5-1200x800.jpg);
+}
+
+.cid-rNOUFPooqZ {
+  padding-top: 6rem;
+  padding-bottom: 6rem; 
+  background-image:linear-gradient(rgba(30, 241, 231, 0.61),rgba(129, 192, 194, 0.842)), url(images/bakery12-3-1200x800.jpg);
+  background-position: center;
+  background-size: cover;
+}
+.cid-rNOUFPooqZ .block__inner {
+  padding: 65px 20px 75px;
+  border-radius: 10px;
+  border: 2px solid #ffffff;
+}
+.cid-rNOUFPooqZ .mbr-iconfont {
+  font-size: 62px;
+  color: #ffffff;
+}
+.cid-rNOUFPooqZ .mbr-section-title {
+  margin-top: 25px;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-rNOUFPooqZ .mbr-text {
+  margin-top: 25px;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-rNOUFPooqZ .mbr-section-btn {
+    height: 50px;
+  margin-top: 40px;
+  margin-left: 0px -0.8rem 0px -0.8rem;
+  font-size: 0;
+}
+.cid-rNOUFPooqZ .mbr-section-btn .btn {
+  line-height: 50px;
+  font-weight: 500;
+}
+
+.display-3{
+    font-size: 2.625rem;
+    line-height: 52px;
+}
+.mbr-bold{
+    font-weight: 700;
+}
+.mbr-section-title{
+    font-style: normal;
+}
+.cid-rNOUFPooqZ .mbr-text{
+    margin-top: 25px;
+    margin-bottom: 0;
+    color: #ffffff;
+}
+.display-4{
+    font-weight: 400;
+    font-size: 1rem;
+    line-height: 26px;
+}
+.btn-white-outline{
+    border-radius: 50px;
+    border: 1px solid white;
+    color: #fff;
+}
+
+.img-cent>img{
+    border-radius: 25px;
+    margin: 5px;
+}
+.background-color{
+    background-image: linear-gradient(rgba(206, 200, 200, 0.055),rgba(230, 221, 221, 0.842)),url(images/bakery24-1-1200x800.jpg);
+    background-color: #d6d0d0;
+    margin-top: 65px;
+}
+.cid-rNMJIoop{
+    background-image:linear-gradient(rgba(58, 53, 53, 0.808),rgba(221, 64, 174, 0.514)), url(images/bakery26-1200x800.jpg);
+    background-position: center;
+    background-size: cover;
+}
+@media (max-width: 767px) {
+  .cid-rNOUFPooqZ .mbr-text {
+    margin-top: 10px;
+  }
+  .cid-rNOUFPooqZ .mbr-section-title {
+    margin-top: 10px;
+  }
+  .cid-rNOUFPooqZ .block__inner {
+    padding: 30px 20px 40px;
+  }
+}
+@media screen and(max-width:480px) and (min-width: 0px) {
+  .bottom__card {
+    width: 170px;
+    height: 110px;
+  }
+  .font {
+    font-size: 20px !important;
+    font-weight: 200;
+  }
+}
+@media screen and (min-width: 481px) and (max-width: 769px) {
+}
